@@ -9,17 +9,31 @@
 ![](./image/李文亮/person.jpg)
 
 ### 事件
-
-* 2020-01-03 [李文亮医生因发布不实言论签署训诫书](https://weibo.com/u/1139098205?refer_flag=1005055014_)
+<details>
+<summary>
+2020-01-03 <a href="https://weibo.com/1139098205/Is0XboARR">李文亮医生因发布不实言论签署训诫书</a>
+</summary>
 
 ![](./image/李文亮/20200131.png)
 
 ![](./image/李文亮/20200103.jpg)
 
-* 2020-02-01 [李文亮医生冠状病毒核酸检测结果阳性](https://weibo.com/u/1139098205?refer_flag=1005055014_)
+</details>
+
+<details>
+<summary>
+2020-02-01 <a href="https://weibo.com/1139098205/Is9M7taaY">李文亮医生冠状病毒核酸检测结果阳性</a>
+</summary>
 
 ![](./image/李文亮/20200201.png)
 
-* 2020-02-06 [李文亮医生因新冠肺炎去世](https://baike.baidu.com/item/%E6%9D%8E%E6%96%87%E4%BA%AE/24300481)
+</details>
+
+<details>
+<summary>
+2020-02-06 <a href="https://baike.baidu.com/item/%E6%9D%8E%E6%96%87%E4%BA%AE/24300481">李文亮医生因新冠肺炎去世</a>
+</summary>
 
 ![](./image/李文亮/20200206.png)
+
+</details>
